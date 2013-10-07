@@ -1,0 +1,15 @@
+{
+  "files": [
+    "ch00-introduction.asciidoc",
+    "ch01-getting-comfortable.asciidoc",
+    "ch02-functions_and_modules.asciidoc",
+    "ch03-tuples-and-records.asciidoc",
+    "ch04-logic-and-recursion.asciidoc",
+    "ch05-strings.asciidoc",
+    "appendix-a.asciidoc",
+    "appendix-b.asciidoc"
+  ],
+  "formats": {},
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "title": "etudes for elixir"
+}
