@@ -9,7 +9,12 @@
     "appendix-a.asciidoc",
     "appendix-b.asciidoc"
   ],
-  "formats": {},
+  "formats": {
+    "pdf": {},
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
   "theme": "oreillymedia/atlas_tech1c_theme",
   "title": "etudes for elixir"
 }
