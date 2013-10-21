@@ -1,6 +1,7 @@
 {
   "files": [
-    "ch00-introduction.asciidoc"
+    "ch00-introduction.asciidoc",
+    "ch01-getting-comfortable.asciidoc"
   ],
   "formats": {
     "pdf": {},
