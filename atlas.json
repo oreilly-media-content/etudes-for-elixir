@@ -1,7 +1,8 @@
 {
   "files": [
     "ch00-introduction.asciidoc",
-    "ch01-getting-comfortable.asciidoc"
+    "ch01-getting-comfortable.asciidoc",
+    "ch02-functions_and_modules.asciidoc"
   ],
   "formats": {
     "pdf": {},
